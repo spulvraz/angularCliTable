@@ -11,5 +11,5 @@ export class DemoTableComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  // this is a comment
 }
